@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Locale;
 
-class Rectangle3
+class Rectangle
 {
 	public static void main(String[] args)
 	{
