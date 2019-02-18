@@ -38,7 +38,7 @@ class Rectangle
 	}
 	
 	
-	// bypass delimeter locales problems
+	// bypass possible delimeter locales problems
 	private static Float readFloat(String src)
 	{
 		try
